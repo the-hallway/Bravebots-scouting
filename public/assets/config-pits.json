@@ -47,19 +47,19 @@
           "name": "Drivetrain",
           "type": "dropdown",
           "options": [
-            "West Coast",
+            "Tank",
             "Swerve",
-            "Butterfly",
             "Mecanum",
             "Other"
           ]
         },
         {
-          "name": "Swerve Motor Type",
+          "name": "Drive Motor Type",
           "type": "dropdown",
           "options": [
             "Neo",
             "Falcon",
+            "Kraken",
             "Cim"
           ]
         },
@@ -109,7 +109,8 @@
           "options": [
             "Stage Right",
             "Stage Left",
-            "Center Stage"
+            "Center Stage",
+            "No Climb"
           ]
         },
         {
