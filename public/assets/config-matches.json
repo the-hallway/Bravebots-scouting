@@ -36,6 +36,12 @@
           "type": "spinbox",
           "prefix": "Auto"
         },
+        
+        {
+          "name": "Amp Notes Attempted",
+          "type": "spinbox",
+          "prefix": "Auto"
+        },
         {
           "name": "Speaker Notes",
           "type": "spinbox",
