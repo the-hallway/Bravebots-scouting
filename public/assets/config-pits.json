@@ -104,11 +104,12 @@
           ]
         },
         {
-          "name": "Scoring Methods",
+          "name": "Can Climb",
           "type": "multicheckbox",
           "options": [
-            "Manual",
-            "Auto"
+            "Stage Right",
+            "Stage Left",
+            "Center Stage"
           ]
         },
         {
