@@ -14,8 +14,6 @@
           }
         },
         {
-          "name": "Starting Position",
-          "type": "positions",
           "file": "field.png"
         }
       ]
