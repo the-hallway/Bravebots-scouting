@@ -95,12 +95,6 @@
           "col": 3
         },
         {
-          "name": "Amplified Speaker Notes",
-          "type": "spinbox",
-          "row": 5,
-          "col": 3
-        },
-        {
           "name": "Co-op Bonus",
           "type": "checkbox",
           "col": 2
