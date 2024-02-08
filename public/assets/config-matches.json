@@ -97,18 +97,18 @@
         {
           "name": "Attempted Speaker Notes",
           "type": "spinbox"
+        }, 
+        {
+          "name": "Trap Notes Att",
+          "type": "spinbox",
+          "max": 3,
+          "row": 5,
+          "col": 3
         },
            {
           "name": "Trap Notes",
           "type": "spinbox",
           "max": 3,
-        },
-        {
-          "name": "Trap Notes Att",
-          "type": "spinbox",
-          "max": 3,
-          "row": 6,
-          "col": 3
         },
         {
           "name": "Co-op Bonus",
