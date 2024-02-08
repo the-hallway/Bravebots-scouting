@@ -126,16 +126,6 @@
           "height": 20
         },
         {
-          "name": "High Notes Attempted",
-          "type": "spinbox",
-          "max": 3,
-        },
-         {
-          "name": "Spotlights",
-          "type": "spinbox",
-          "max": 3,
-        },
-        {
           "name": "Defense Rating",
           "type": "dropdown",
           "options": [
