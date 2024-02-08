@@ -106,6 +106,16 @@
           "col": 3
         },
         {
+          "name": "Amp Notes",
+          "type": "spinbox"
+        }, 
+        {
+          "name": "Attempted Amp Notes",
+          "type": "spinbox",
+          "row": 6,
+          "col": 3
+        },
+        {
           "name": "Co-op Bonus",
           "type": "checkbox",
           "col": 2
