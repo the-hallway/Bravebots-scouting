@@ -59,7 +59,7 @@
         }
       ]
     },
-    {
+   {
       "name": "Teleop",
       "widgets": [
         {
@@ -88,10 +88,6 @@
           "name": "Speaker Notes",
           "type": "spinbox"
         },
-         {
-          "name": "Speaker Notes Attempted",
-          "type": "spinbox"
-        },
         {
           "name": "Amplified Speaker Notes",
           "type": "spinbox",
@@ -103,10 +99,6 @@
           "type": "spinbox"
         },
         {
-          "name": "Amp Notes Attempted",
-          "type": "spinbox"
-        },
-        {
           "name": "Trap Notes",
           "type": "spinbox",
           "max": 3,
@@ -114,25 +106,9 @@
           "col": 3
         },
         {
-          "name": "Trap Notes Attempted",
-          "type": "spinbox",
-          "row": 6,
-          "col": 3
-        },
-        {
-          "name": "Human Player At Amp",
+          "name": "Co-op Bonus",
           "type": "checkbox",
           "col": 2
-        },
-         {
-          "name": "High Notes Attempted",
-          "type": "spinbox",
-          "max": 3,
-        },
-         {
-          "name": "Spotlights",
-          "type": "spinbox",
-          "max": 3,
         },
         {
           "type": "spacer",
@@ -149,6 +125,7 @@
             "4",
             "5 (Very Effective)"
           ],
+          "col": 2
         },
         {
           "name": "Tipped",
@@ -196,14 +173,6 @@
             "Stage Right",
             "Center Stage"
           ]
-        },
-        {
-          "name": "Yellow Card",
-          "type": "checkbox"
-        },
-        {
-          "name": "Red Card",
-          "type": "checkbox"
         },
         {
           "name": "Mechanical Failures",
