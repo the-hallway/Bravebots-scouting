@@ -98,11 +98,16 @@
           "name": "Attempted Speaker Notes",
           "type": "spinbox"
         },
-        {
+           {
           "name": "Trap Notes",
           "type": "spinbox",
           "max": 3,
-          "row": 5,
+        },
+        {
+          "name": "Trap Notes Att",
+          "type": "spinbox",
+          "max": 3,
+          "row": 6,
           "col": 3
         },
         {
