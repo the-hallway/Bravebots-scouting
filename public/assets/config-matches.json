@@ -97,19 +97,14 @@
         {
           "name": "Amplified Speaker Notes",
           "type": "spinbox",
-          "row": 5,
-          "col": 3
         },
         {
           "name": "Amp Notes",
           "type": "spinbox"
-	  "row": 6,
         },
         {
           "name": "Amp Notes Attempted",
           "type": "spinbox"
-          "row": 6,
-          "col": 3
         },
         {
           "name": "Trap Notes",
@@ -120,8 +115,6 @@
         {
           "name": "Trap Notes Attempted",
           "type": "spinbox",
-          "row": 7,
-          "col": 3
         },
         {
           "name": "Co-op Bonus",
