@@ -133,6 +133,7 @@
           "name": "Spotlights",
           "type": "spinbox",
           "max": 3,
+          "row": 8,
           "col": 3
         },
         {
