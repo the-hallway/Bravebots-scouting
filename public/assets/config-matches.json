@@ -127,6 +127,12 @@
           "col": 2
         },
          {
+          "name": "Spotlights",
+          "type": "spinbox",
+          "max": 3,
+          "col": 2
+        },
+         {
           "type": "spacer",
           "height": 20
         },
