@@ -120,6 +120,16 @@
           "type": "checkbox",
           "col": 2
         },
+        {
+          "name": "High Notes Attempted",
+          "type": "spinbox",
+          "max": 3,
+        },
+         {
+          "name": "Spotlights",
+          "type": "spinbox",
+          "max": 3,
+        },
          {
           "type": "spacer",
           "height": 20
