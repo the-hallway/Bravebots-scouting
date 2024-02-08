@@ -89,9 +89,9 @@
           "type": "spinbox"
         },
          {
-          "name": "Speaker Notes Attempted",
+          "name": "Speaker Notes Att",
           "type": "spinbox"
-	  "row": 4,
+	        "row": 4,
           "col": 3
         },
         {
