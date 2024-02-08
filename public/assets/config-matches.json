@@ -107,7 +107,7 @@
           "name": "Trap Notes",
           "type": "spinbox",
           "max": 3,
-          "row": 6,
+          "row": 5,
           "col": 3
         },
         {
