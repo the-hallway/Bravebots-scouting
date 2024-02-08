@@ -121,16 +121,6 @@
           "col": 2
         },
          {
-          "name": "High Notes Attempted",
-          "type": "spinbox",
-          "max": 3,
-        },
-         {
-          "name": "Spotlights",
-          "type": "spinbox",
-          "max": 3,
-        },
-        {
           "type": "spacer",
           "height": 20
         },
@@ -145,6 +135,7 @@
             "4",
             "5 (Very Effective)"
           ],
+          "col": 2
         },
         {
           "name": "Tipped",
@@ -192,14 +183,6 @@
             "Stage Right",
             "Center Stage"
           ]
-        },
-        {
-          "name": "Yellow Card",
-          "type": "checkbox"
-        },
-        {
-          "name": "Red Card",
-          "type": "checkbox"
         },
         {
           "name": "Mechanical Failures",
