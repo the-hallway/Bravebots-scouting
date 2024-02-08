@@ -185,6 +185,14 @@
           ]
         },
         {
+          "name": "Yellow Card",
+          "type": "checkbox"
+        },
+        {
+          "name": "Red Card",
+          "type": "checkbox"
+        },
+        {
           "name": "Mechanical Failures",
           "type": "text"
         },
