@@ -59,7 +59,7 @@
         }
       ]
     },
-   {
+  {
       "name": "Teleop",
       "widgets": [
         {
@@ -88,10 +88,16 @@
           "name": "Speaker Notes",
           "type": "spinbox"
         },
+         {
+          "name": "Speaker Notes Attempted",
+          "type": "spinbox"
+	  "row": 4,
+          "col": 3
+        },
         {
           "name": "Amplified Speaker Notes",
           "type": "spinbox",
-          "row": 4,
+          "row": 5,
           "col": 3
         },
         {
@@ -99,10 +105,20 @@
           "type": "spinbox"
         },
         {
+          "name": "Amp Notes Attempted",
+          "type": "spinbox"
+        },
+        {
           "name": "Trap Notes",
           "type": "spinbox",
           "max": 3,
-          "row": 5,
+          "row": 6,
+          "col": 3
+        },
+        {
+          "name": "Trap Notes Attempted",
+          "type": "spinbox",
+          "row": 7,
           "col": 3
         },
         {
