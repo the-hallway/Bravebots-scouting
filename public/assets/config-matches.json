@@ -120,6 +120,11 @@
           "type": "checkbox",
           "col": 2
         },
+        
+         {
+          "type": "spacer",
+          "height": 20
+        },
         {
           "name": "High Notes Attempted",
           "type": "spinbox",
@@ -129,10 +134,6 @@
           "name": "Spotlights",
           "type": "spinbox",
           "max": 3,
-        },
-         {
-          "type": "spacer",
-          "height": 20
         },
         {
           "name": "Defense Rating",
