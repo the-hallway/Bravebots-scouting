@@ -59,7 +59,7 @@
         }
       ]
     },
- {
+  {
       "name": "Teleop",
       "widgets": [
         {
@@ -88,10 +88,21 @@
           "name": "Speaker Notes",
           "type": "spinbox"
         },
-         {
-          "name": "Speaker Notes Att",
+        {
+          "name": "Amplified Speaker Notes",
+          "type": "spinbox",
+          "row": 4,
+          "col": 3
+        },
+        {
+          "name": "Amp Notes",
           "type": "spinbox"
-	        "row": 4,
+        },
+        {
+          "name": "Trap Notes",
+          "type": "spinbox",
+          "max": 3,
+          "row": 5,
           "col": 3
         },
         {
