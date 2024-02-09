@@ -95,7 +95,7 @@
           "col": 3
         },
         {
-          "name": "Attempted Speaker Notes",
+          "name": "Speaker Notes Attempted",
           "type": "spinbox"
         }, 
         {
@@ -110,7 +110,7 @@
           "type": "spinbox"
         }, 
         {
-          "name": "Attempted Amp Notes",
+          "name": "Amp Notes Attempted",
           "type": "spinbox",
           "row": 6,
           "col": 3
