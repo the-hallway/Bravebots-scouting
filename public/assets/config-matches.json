@@ -1,5 +1,5 @@
 {
-  "heading": "Crescendo - 2024",
+  "heading": "Reefscape - 2025",
   "logo": "logo.png",
   "pages": [
     {
@@ -16,7 +16,7 @@
         {
           "name": "Starting Position",
           "type": "positions",
-          "file": "field.png"
+          "file": "2025 REEFSCAPE Field.png"
         }
       ]
     },
@@ -32,27 +32,27 @@
           "height": 20
         },
         {
-          "name": "Amp Notes",
+          "name": "Trough",
           "type": "spinbox",
           "prefix": "Auto"
         },
         {
-          "name": "Amp Notes Attempted",
+          "name": "L2",
           "type": "spinbox",
           "prefix": "Auto"
         },
         {
-          "name": "Speaker Notes",
+          "name": "L3",
           "type": "spinbox",
           "prefix": "Auto"
         },
         {
-          "name": "Speaker Notes Attempted",
+          "name": "L4",
           "type": "spinbox",
           "prefix": "Auto"
         },
         {
-          "name": "Trap Notes",
+          "name": "Algae",
           "type": "spinbox",
           "max": 3,
           "prefix": "Auto"
