@@ -1,5 +1,5 @@
 {
-  "heading": "Crescendo - 2024 (Pit Scouting)",
+  "heading": "Reefscape - 2025 (Pit Scouting)",
   "logo": "logo.png",
   "skipTeamSelection": true,
   "pages": [
@@ -90,31 +90,35 @@
           "name": "Can Pick Up",
           "type": "multicheckbox",
           "options": [
-            "Ground",
-            "Source"
+            "Ground Algae",
+            "Reef Algae",
+            "Source Coral",
+            "Ground Coral"
           ]
         },
         {
-          "name": "Can Score In",
+          "name": "Can Score",
           "type": "multicheckbox",
           "options": [
-            "Speaker",
-            "Amp",
-            "Trap"
+            "Trough",
+            "L2",
+            "L3",
+            "L4",
+            "Processor",            
+            "Net"
           ]
         },
         {
           "name": "Can Climb",
           "type": "multicheckbox",
           "options": [
-            "Stage Right",
-            "Stage Left",
-            "Center Stage",
+            "Shallow Cage",
+            "Deep Cage",
             "No Climb"
           ]
         },
         {
-          "name": "Preferred Pickup Location",
+          "name": "Preferred Coral Pickup Location",
           "type": "dropdown",
           "options": [
             "Ground",
