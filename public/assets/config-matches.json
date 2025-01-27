@@ -35,7 +35,7 @@
           "name": "Remove Algae",
           "type": "spinbox",
           "prefix": "Auto",
-          "col": 2
+          "col": 1
         },
         {
           "name": "Trough",
@@ -58,9 +58,13 @@
           "prefix": "Auto"
         },
         {
-          "name": "Algae",
+          "name": "Algae Scored Net",
           "type": "spinbox",
-          "max": 3,
+          "prefix": "Auto"
+        },
+        {
+          "name": "Algae Scored Processor",
+          "type": "spinbox",
           "prefix": "Auto"
         }
       ]
