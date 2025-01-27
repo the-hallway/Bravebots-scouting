@@ -70,95 +70,115 @@
       ]
     },
   {
-      "name": "Teleop",
+     "name": "Teleop",
       "widgets": [
         {
-          "name": "Algae Picked Up From",
+          "name": "Picked Up From",
           "type": "heading",
-          "colspan": 5,
-          "align": "center"
+          "align": "center",
+          "col": 3
+        },
+        {
+          "name": "Algae",
+          "type": "heading",
+          "align": "center",
+          "col": 3,
+          "row":2
         },
         {
           "name": "Ground",
-          "type": "spinbox"
+          "type": "spinbox",
+          "col": 1,
+          "row": 3
         },
         {
-          "name": "Reef",
+          "name": "Reef L2.5",
           "type": "spinbox",
           "row": 3,
           "col": 3
         },
         {
-          "name": "Coral Picked Up From",
+          "name": "Reef L3.5",
+          "type": "spinbox",
+          "row": 4,
+          "col": 2
+        },
+        {
+          "name": "Coral",
           "type": "heading",
-          "colspan": 5,
+          "row": 5,
+          "col": 3,
           "align": "center"
         },
         {
           "name": "Ground",
-          "type": "spinbox"
-          "row": 7,
-          "col": 1
+          "type": "spinbox",
+          "col": 1,
+          "row": 6
         },
         {
-          "name": "Source",
+          "name": "Coral Station",
           "type": "spinbox",
-          "row": 7,
+          "row": 6,
           "col": 3
         },
         {
           "name": "Scoring",
           "type": "heading",
-          "colspan": 5,
+          "col": 3,
           "align": "center"
         },
+
         {
-          "name": "Speaker Notes",
-          "type": "spinbox"
+          "name": "Algae",
+          "type": "heading",
+          "row": 8,
+          "col": 1
+
         },
         {
-          "name": "Amplified Speaker Notes",
+          "name": "Net",
           "type": "spinbox",
-          "row": 11,
-          "col": 3
+          "col": 2,
+          "row": 8
         },
         {
-          "name": "Speaker Notes Attempted",
-          "type": "spinbox"
-        }, 
-        {
-          "name": "Trap Notes",
+          "name": "Proccesor",
           "type": "spinbox",
-          "max": 3,
-          "row": 13,
-          "col": 3
+          "row": 8,
+          "col": 4
+
+        },
+
+        {
+          "name": "Coral",
+          "type": "heading",
+          "col": 1,
+          "row": 9
         },
         {
-          "name": "Amp Notes",
-          "type": "spinbox"
-        }, 
-        {
-          "name": "Amp Notes Attempted",
+          "name": "Coral Trough",
           "type": "spinbox",
-          "row": 15,
-          "col": 3
+          "col": 1,
+          "row": 10
         },
         {
-          "name": "Human Player At Amp",
-          "type": "checkbox",
-          "col": 2
-        },
-         {
-          "name": "Highnotes Thrown",
+          "name": "Coral L2",
           "type": "spinbox",
-          "max": 3,
-          "col": 2
+          "col": 2,
+          "row": 10
         },
-         {
-          "name": "Spotlights",
+        {
+          "name": "Coral L3",
           "type": "spinbox",
-          "max": 3,
-          "col": 2
+          "col": 1,
+          "row": 11
+        },
+        {
+          "name": "Coral L4",
+          "type": "spinbox",
+          "col": 2,
+          "row": 11
         },
          {
           "type": "spacer",
