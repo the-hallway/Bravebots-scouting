@@ -73,7 +73,23 @@
       "name": "Teleop",
       "widgets": [
         {
-          "name": "Picked Up From",
+          "name": "Algae Picked Up From",
+          "type": "heading",
+          "colspan": 5,
+          "align": "center"
+        },
+        {
+          "name": "Ground",
+          "type": "spinbox"
+        },
+        {
+          "name": "Reef",
+          "type": "spinbox",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "name": "Coral Picked Up From",
           "type": "heading",
           "colspan": 5,
           "align": "center"
