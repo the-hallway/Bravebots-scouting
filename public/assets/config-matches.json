@@ -97,11 +97,13 @@
         {
           "name": "Ground",
           "type": "spinbox"
+          "row": 5,
+          "col": 1
         },
         {
           "name": "Source",
           "type": "spinbox",
-          "row": 2,
+          "row": 5,
           "col": 3
         },
         {
@@ -117,7 +119,7 @@
         {
           "name": "Amplified Speaker Notes",
           "type": "spinbox",
-          "row": 4,
+          "row": 6,
           "col": 3
         },
         {
@@ -128,7 +130,7 @@
           "name": "Trap Notes",
           "type": "spinbox",
           "max": 3,
-          "row": 5,
+          "row": 7,
           "col": 3
         },
         {
@@ -138,7 +140,7 @@
         {
           "name": "Amp Notes Attempted",
           "type": "spinbox",
-          "row": 6,
+          "row": 7,
           "col": 3
         },
         {
