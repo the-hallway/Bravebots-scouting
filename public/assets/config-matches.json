@@ -85,7 +85,7 @@
         {
           "name": "Reef",
           "type": "spinbox",
-          "row": 2,
+          "row": 3,
           "col": 3
         },
         {
