@@ -205,8 +205,8 @@
           "name": "End Location",
           "type": "radio",
           "options": [
-            "Onstage and Spotlit",
-            "Onstage",
+            "Shallow Climb",
+            "Deep Climb",
             "Parked",
             "None"
           ],
@@ -215,28 +215,6 @@
         {
           "name": "Failed Climb",
           "type": "checkbox"
-        },
-        {
-          "name": "Robots Onstage",
-          "type": "multicheckbox",
-          "options": [
-            "Stage Left",
-            "Stage Right",
-            "Center Stage"
-          ]
-        },
-        {
-          "name": "Harmony",
-          "type": "checkbox"
-        },
-        {
-          "name": "Trap Note Positions",
-          "type": "multicheckbox",
-          "options": [
-            "Stage Left",
-            "Stage Right",
-            "Center Stage"
-          ]
         },
         {
           "name": "Yellow Card",
@@ -253,18 +231,6 @@
         {
           "name": "Comments",
           "type": "textarea"
-        },
-        {
-          "name": "Stage Positions",
-          "type": "heading",
-          "colspan": 2,
-          "align": "center"
-        },
-        {
-          "type": "picture",
-          "file": "stage.png",
-          "colspan": 2,
-          "height": 250
         }
       ]
     }
