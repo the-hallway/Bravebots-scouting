@@ -126,7 +126,7 @@
         {
           "name": "Algae",
           "type": "heading",
-          "row": 7,
+          "row": 6,
           "col": 1
 
         },
@@ -134,12 +134,12 @@
           "name": "Net",
           "type": "spinbox",
           "col": 1,
-          "row": 8
+          "row": 7
         },
         {
           "name": "Proccesor",
           "type": "spinbox",
-          "row": 8,
+          "row": 7,
           "col": 3
 
         },
@@ -148,31 +148,31 @@
           "name": "Coral",
           "type": "heading",
           "col": 1,
-          "row": 9
+          "row": 8
         },
         {
           "name": "Coral Trough",
           "type": "spinbox",
           "col": 1,
-          "row": 10
+          "row": 9
         },
         {
           "name": "Coral L2",
           "type": "spinbox",
           "col": 3,
-          "row": 10
+          "row": 9
         },
         {
           "name": "Coral L3",
           "type": "spinbox",
           "col": 1,
-          "row": 11
+          "row": 10
         },
         {
           "name": "Coral L4",
           "type": "spinbox",
           "col": 3,
-          "row": 11
+          "row": 10
         },
          {
           "type": "spacer",
