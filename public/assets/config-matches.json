@@ -204,6 +204,10 @@
             "5 (Very Effective)"
           ],
           "col": 2
+        },{
+          "name": "Fouls Commited",
+          "type": "spinbox",
+          "col": 1
         },
         {
           "name": "Tipped",
