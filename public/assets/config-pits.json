@@ -88,7 +88,10 @@
       "widgets": [
         {
           "name": "Game Piece Preference",
-          "type": "text"
+          "type": "multicheckbox",
+          "options": [
+            " Algae",
+            "Coral"
         },
         {
           "name": "Can Pick Up",
