@@ -17,6 +17,10 @@
         {
           "name": "Driver Names",
           "type": "text"
+        },
+         {
+          "name": "Contact Information",
+          "type": "text"
         }
       ]
     },
@@ -83,8 +87,8 @@
       "name": "Match Play",
       "widgets": [
         {
-          "name": "Cycle Time",
-          "type": "number"
+          "name": "Game Piece Preference",
+          "type": "text"
         },
         {
           "name": "Can Pick Up",
