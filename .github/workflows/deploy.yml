@@ -4,13 +4,13 @@ on:
   push:
     paths-ignore:
       - "docs/**"
-    branches: [ "main" , "Bravebots_Scouting_2025" ]
+    branches: [ "Bravebots_Scouting_2025" ]
   pull_request:
     paths-ignore:
       - "docs/**"
-    branches: [ "main", "Bravebots_Scouting_2025" ]
+    branches: [ "Bravebots_Scouting_2025" ]
   workflow_dispatch:
-    branches: [ "main", "Bravebots_Scouting_2025" ]
+    branches: [ "Bravebots_Scouting_2025" ]
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
