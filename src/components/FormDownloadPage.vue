@@ -6,6 +6,7 @@
     <FormGroup :label-type="LabelType.None" :colspan="2" align="center">
       <button @click="clearForm">Save and Clear Form</button>
     </FormGroup>
+    </FormGroup>
     <FormGroup :label-type="LabelType.None">
       <div style="height: 20px;"></div>
     </FormGroup>
