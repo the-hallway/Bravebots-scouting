@@ -28,26 +28,6 @@
       "name": "Robot",
       "widgets": [
         {
-          "name": "Height",
-          "type": "number"
-        },
-        {
-          "name": "Length",
-          "type": "number"
-        },
-        {
-          "name": "Width",
-          "type": "number"
-        },
-        {
-          "name": "Number of Batteries",
-          "type": "number"
-        },
-        {
-          "name": "Weight",
-          "type": "number"
-        },
-        {
           "name": "Drivetrain",
           "type": "dropdown",
           "options": [
@@ -55,30 +35,6 @@
             "Swerve",
             "Mecanum",
             "Other"
-          ]
-        },
-        {
-          "name": "Drive Motor Type",
-          "type": "dropdown",
-          "options": [
-            "Neo",
-            "Falcon",
-            "Kraken",
-            "Cim"
-          ]
-        },
-        {
-          "name": "Swerve Type",
-          "type": "dropdown",
-          "options": [
-            "No swerve",
-            "L1",
-            "L2",
-            "L3",
-            "L4",
-            "Neo",
-            "Falcon",
-            "Custom"
           ]
         }
       ]
