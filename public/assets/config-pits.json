@@ -28,6 +28,16 @@
       "name": "Robot",
       "widgets": [
         {
+          "name": "Number of Batteries",
+          "type": "text",
+          ]
+        },
+        {
+          "name": "Can Move in Autonomous",
+          "type": "checkbox",
+          ]
+        },
+        {
           "name": "Drivetrain",
           "type": "dropdown",
           "options": [
