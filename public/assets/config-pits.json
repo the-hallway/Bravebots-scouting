@@ -29,13 +29,11 @@
       "widgets": [
         {
           "name": "Number of Batteries",
-          "type": "text",
-          ]
+          "type": "text"
         },
         {
           "name": "Can Move in Autonomous",
-          "type": "checkbox",
-          ]
+          "type": "checkbox"
         },
         {
           "name": "Drivetrain",
