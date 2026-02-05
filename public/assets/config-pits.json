@@ -32,7 +32,7 @@
           "type": "text"
         },
         {
-          "name": "Can Move in Autonomous",
+          "name": "Can Climb in Autonomous",
           "type": "checkbox"
         },
         {
@@ -84,8 +84,9 @@
           "name": "Can Climb",
           "type": "multicheckbox",
           "options": [
-            "Shallow Cage",
-            "Deep Cage",
+            "Level 1",
+            "Level 2",
+            "Level 3",
             "No Climb"
           ]
         },
