@@ -51,34 +51,8 @@
       "name": "Match Play",
       "widgets": [
         {
-          "name": "Game Piece Preference",
-          "type": "multicheckbox",
-          "options": [
-            " Algae",
-            "Coral"
-          ]
-        },
-        {
-          "name": "Can Pick Up",
-          "type": "multicheckbox",
-          "options": [
-            "Ground Algae",
-            "Reef Algae",
-            "Source Coral",
-            "Ground Coral"
-          ]
-        },
-        {
-          "name": "Can Score",
-          "type": "multicheckbox",
-          "options": [
-            "Trough",
-            "L2",
-            "L3",
-            "L4",
-            "Processor",            
-            "Net"
-          ]
+          "name": "Can Pick Up Fuel From Floor",
+          "type": "checkbox",
         },
         {
           "name": "Can Climb",
@@ -88,14 +62,6 @@
             "Level 2",
             "Level 3",
             "No Climb"
-          ]
-        },
-        {
-          "name": "Preferred Coral Pickup Location",
-          "type": "dropdown",
-          "options": [
-            "Ground",
-            "Source"
           ],
           "defaultOption": true
         },
