@@ -1,5 +1,5 @@
 {
-  "heading": "Reefscape - 2025 (Pit Scouting)",
+  "heading": "Rebuilt - 2026 (Pit Scouting)",
   "logo": "logo.png",
   "skipTeamSelection": true,
   "pages": [
@@ -64,7 +64,6 @@
             "Level 3",
             "No Climb"
           ],
-          "defaultOption": true
         },
         {
           "name": "Comments",
