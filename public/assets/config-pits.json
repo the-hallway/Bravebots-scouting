@@ -33,7 +33,11 @@
         },
         {
           "name": "Can Climb in Autonomous",
-          "type": "checkbox"
+          "type": "multicheckbox"
+          "options": [
+              "Yes",
+              "No"
+            ]
         },
         {
           "name": "Drivetrain",
@@ -53,7 +57,6 @@
         {
           "name": "Can Pick Up Fuel From Floor",
           "type": "checkbox",
-          ]
         },
         {
           "name": "Can Climb",
