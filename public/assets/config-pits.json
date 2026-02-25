@@ -33,11 +33,7 @@
         },
         {
           "name": "Can Climb in Autonomous",
-          "type": "multicheckbox",
-          "options": [
-              "Yes",
-              "No"
-            ]
+          "type": "checkbox",
         },
         {
           "name": "Drivetrain",
