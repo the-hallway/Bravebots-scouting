@@ -1,57 +1,87 @@
+
 {
   "heading": "Rebuilt - 2026 (Pit Scouting)",
   "logo": "logo.png",
   "skipTeamSelection": true,
   "pages": [
     {
-      "name": "Team",
-      "widgets": [
-        {
-          "name": "Team Number",
-          "type": "number"
-        },
-        {
-          "name": "Drive Coach",
-          "type": "text"
-        },
-        {
-          "name": "Driver Names",
-          "type": "text"
-        },
-         {
-          "name": "Contact Information",
-          "type": "text"
-        }
-      ]
-    },
-    {
-      "name": "Robot",
-      "widgets": [
-        {
-          "name": "Number of Batteries",
-          "type": "text"
-        },
-        {
-          "name": "Can Climb in Autonomous",
-          "type": "checkbox",
-        },
-        {
-          "name": "Drivetrain",
-          "type": "dropdown",
-          "options": [
-            "Tank",
-            "Swerve",
-            "Mecanum",
-            "Other"
-          ]
-        }
-      ]
-    },
-    {
+        "name": "Team",
+        "widgets": [
+          {
+            "name": "Team Name",
+            "type": "text"
+          },
+          {
+            "name": "Team Number",
+            "type": "number"
+          }
+        ]
+      },
+      {
+        "name": "Robot",
+        "widgets": [
+          {
+            "name": "Height",
+            "type": "number"
+          },
+          {
+            "name": "Length",
+            "type": "number"
+          },
+          {
+            "name": "Width",
+            "type": "number"
+          },
+          {
+            "name": "Number of Batteries",
+            "type": "number"
+          },
+          {
+            "name": "Weight",
+            "type": "number"
+          },
+          {
+            "name": "Drivetrain",
+            "type": "dropdown",
+            "options": [
+              "West Coast",
+              "Swerve",
+              "Butterfly",
+              "Mecanum",
+              "Other"
+            ]
+          },
+          {
+            "name": "Swerve Motor Type",
+            "type": "dropdown",
+            "options": [
+              "Neo",
+              "Falcon",
+              "Cim",
+              "Kraken"
+            ]
+          },
+          {
+            "name": "Swerve Type",
+            "type": "dropdown",
+            "options": [
+              "No swerve",
+              "Mk 4",
+              "Mk 4i",
+              "Custom"
+            ]
+          }
+        ]
+      },
+      {
       "name": "Match Play",
       "widgets": [
         {
           "name": "Can Pick Up Fuel From Floor",
+          "type": "checkbox",
+        },
+        {
+          "name": "Can Climb in Autonomous",
           "type": "checkbox",
         },
         {
@@ -73,3 +103,4 @@
     }
   ]
 }
+
