@@ -32,7 +32,11 @@
           "name": "Number of Batteries",
           "type": "text"
         },
-        {
+         {
+          "name": "Robot Height",
+          "type": "text"
+        },
+         {
           "name": "Drivetrain",
           "type": "dropdown",
           "options": [
@@ -40,6 +44,17 @@
             "Swerve",
             "Mecanum",
             "Other"
+          ]
+        },
+        {
+          "name": "Shooter Type",
+          "type": "dropdown",
+          "options": [
+            "Single",
+            "Double",
+            "Triple",
+            "Drum",
+            "Turret"
           ]
         }
       ]
@@ -65,7 +80,7 @@
         },
         {
           "name": "Can Climb",
-          "type": "multicheckbox",
+          "type": "dropdown",
           "options": [
             "Level 1",
             "Level 2",
