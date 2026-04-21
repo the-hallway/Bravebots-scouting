@@ -43,7 +43,7 @@
           "name": "Fuel Scored",
           "type": "spinbox",
           "prefix": "Auto",
-           "step": "5",
+           "step": "10",
           "col": 1
         },
          {
