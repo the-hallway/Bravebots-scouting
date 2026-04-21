@@ -30,7 +30,7 @@
         },
          {
           "name": "Drivetrain",
-          "type": "dropdown",
+          "type": "radio",
           "options": [
             "Tank",
             "Swerve",
@@ -40,7 +40,7 @@
         },
         {
           "name": "Drive Motor",
-          "type": "dropdown",
+          "type": "radio",
           "options": [
             "Kraken",
             "Neo",
@@ -71,7 +71,7 @@
         },
         {
           "name": "Can Climb",
-          "type": "dropdown",
+          "type": "radio",
           "options": [
             "Level 1",
             "Level 2",
