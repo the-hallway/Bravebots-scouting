@@ -40,120 +40,11 @@
      "name": "Teleop",
       "widgets": [
         {
-          "name": "Picked Up From",
-          "type": "heading",
-          "align": "center",
-          "col": 3
-        },
-        {
-          "name": "Algae",
-          "type": "heading",
-          "align": "center",
-          "col": 3,
-          "row":2
-        },
-        {
-          "name": "Ground",
+          "name": "Fuel Scored",
           "type": "spinbox",
-          "col": 1,
-          "row": 3
-        },
-        {
-          "name": "Reef",
-          "type": "spinbox",
-          "row": 3,
-          "col": 3
-        },
-        {
-          "name": "Coral",
-          "type": "heading",
-          "row": 4,
-          "col": 3,
-          "align": "center"
-        },
-        {
-          "name": "Ground",
-          "type": "spinbox",
-          "col": 1,
-          "row": 5
-        },
-        {
-          "name": "Coral Station",
-          "type": "spinbox",
-          "row": 5,
-          "col": 3
-        },
-        {
-          "name": "Scoring",
-          "type": "heading",
-          "col": 3,
-          "align": "center"
-        },
-        {
-          "name": "Algae",
-          "type": "heading",
-          "row": 7,
+          "prefix": "Auto",
+           "step": "5",
           "col": 1
-        },
-        {
-          "name": "Net",
-          "type": "spinbox",
-          "col": 1,
-          "row": 8
-        },
-        {
-          "name": "Proccesor",
-          "type": "spinbox",
-          "row": 8,
-          "col": 3
-        },
-        {
-          "name": "Coral",
-          "type": "heading",
-          "col": 1,
-          "row": 9
-        },
-        {
-          "name": "Coral Trough",
-          "type": "spinbox",
-          "col": 1,
-          "row": 10
-        },
-        {
-          "name": "Coral L2",
-          "type": "spinbox",
-          "col": 3,
-          "row": 10
-        },
-        {
-          "name": "Coral L3",
-          "type": "spinbox",
-          "col": 1,
-          "row": 11
-        },
-        {
-          "name": "Coral L4",
-          "type": "spinbox",
-          "col": 3,
-          "row": 11
-        },
-         {
-          "name": "Drops",
-          "type": "heading",
-          "col": 3,
-          "align": "center"
-        },
-        {
-          "name": "Coral",
-          "type": "spinbox",
-          "col": 1,
-          "row": 13
-        },
-        {
-          "name": "Algae",
-          "type": "spinbox",
-          "col": 3,
-          "row": 13
         },
          {
           "type": "spacer",
@@ -171,10 +62,6 @@
             "5 (Very Effective)"
           ],
           "col": 2
-        },{
-          "name": "Fouls Commited",
-          "type": "spinbox",
-          "col": 1
         },
         {
           "name": "Tipped",
@@ -190,16 +77,12 @@
           "name": "End Location",
           "type": "radio",
           "options": [
-            "Shallow Climb",
-            "Deep Climb",
-            "Parked",
+            "L1",
+            "L2",
+            "L3",
             "None"
           ],
           "default": 3
-        },
-        {
-          "name": "Failed Climb",
-          "type": "checkbox"
         },
         {
           "name": "Yellow Card",
