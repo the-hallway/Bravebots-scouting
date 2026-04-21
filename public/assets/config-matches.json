@@ -35,6 +35,7 @@
           "name": "Remove Algae",
           "type": "spinbox",
           "prefix": "Auto",
+           "step":"5"
           "col": 1
         },
         {
