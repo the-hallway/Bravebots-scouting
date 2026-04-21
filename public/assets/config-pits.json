@@ -12,15 +12,7 @@
           "type": "number"
         },
         {
-          "name": "Drive Coach",
-          "type": "text"
-        },
-        {
-          "name": "Driver Names",
-          "type": "text"
-        },
-         {
-          "name": "Contact Information",
+          "name": "Driver Experience",
           "type": "text"
         }
       ]
@@ -29,7 +21,7 @@
       "name": "Robot",
       "widgets": [
         {
-          "name": "Number of Batteries",
+          "name": "Robot Weight",
           "type": "text"
         },
          {
@@ -47,14 +39,13 @@
           ]
         },
         {
-          "name": "Shooter Type",
+          "name": "Drive Motor",
           "type": "dropdown",
           "options": [
-            "Single",
-            "Double",
-            "Triple",
-            "Drum",
-            "Turret"
+            "Kraken",
+            "Neo",
+            "Falcon",
+            "CIM"
           ]
         }
       ]
