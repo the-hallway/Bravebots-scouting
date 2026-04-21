@@ -23,53 +23,17 @@
     {
       "name": "Autonomous",
       "widgets": [
-        {
-          "name": "Left Starting Zone",
-          "type": "checkbox"
-        },
-        {
-          "type": "spacer",
-          "height": 20
-        },
-         {
-          "name": "Remove Algae",
+       {
+          "name": "Fuel Scored",
           "type": "spinbox",
           "prefix": "Auto",
            "step": "5",
           "col": 1
         },
         {
-          "name": "Trough",
-          "type": "spinbox",
-          "prefix": "Auto"
-        },
-        {
-          "name": "L2",
-          "type": "spinbox",
-          "prefix": "Auto"
-        },
-        {
-          "name": "L3",
-          "type": "spinbox",
-          "prefix": "Auto"
-        },
-        {
-          "name": "L4",
-          "type": "spinbox",
-          "prefix": "Auto"
-        },
-        {
-          "name": "Algae Scored Net",
-          "type": "spinbox",
-          "prefix": "Auto"
-        },
-        {
-          "name": "Algae Scored Processor",
-          "type": "spinbox",
-          "prefix": "Auto"
+          "name": "Climb",
+          "type": "checkbox"
         }
-      ]
-    },
   {
      "name": "Teleop",
       "widgets": [
