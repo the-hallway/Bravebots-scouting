@@ -52,7 +52,7 @@
         },
         {
           "name": "Defense Rating",
-          "type": "dropdown",
+          "type": "radio",
           "options": [
             "0 (Not Played)",
             "1",
