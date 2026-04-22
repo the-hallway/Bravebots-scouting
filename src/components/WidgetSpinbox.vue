@@ -1,6 +1,6 @@
 <template>
   <button @click="setValue(value - 1)" :style="buttonColorStyle" class="spinbox-btn">-</button>
-  <input type="number" class="spinbox" v-model="value" :id="currentId" :min="min" :max="max" step="1"
+  <input type="number" class="spinbox" v-model="value" :id="currentId" :min="min" :max="max" step="5"
     :readonly="!data.allowKeyboardInput" @change="setValue(value)" />
   <button @click="setValue(value + 1)" :style="buttonColorStyle" class="spinbox-btn">+</button>
 </template>
