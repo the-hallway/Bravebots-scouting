@@ -77,10 +77,11 @@
           "name": "End Location",
           "type": "radio",
           "options": [
+           "None",
             "L1",
             "L2",
-            "L3",
-            "None"
+            "L3"
+            
           ],
           "default": 3
         },
